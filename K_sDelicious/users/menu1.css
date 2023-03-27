@@ -1,0 +1,15 @@
+.menu .slide-gralic {
+    width: 310.6px;
+    height: 214.18px;
+}
+
+#total-item {
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    padding-top: 3px;
+    background: white;
+    font-size: larger;
+    border-radius: 50%;
+}
